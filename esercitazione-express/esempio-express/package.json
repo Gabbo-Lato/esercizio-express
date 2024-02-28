@@ -1,0 +1,22 @@
+{
+  "name": "esempio-express",
+  "version": "1.0.0",
+  "description": "Bella applicazione",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gabbo-Lato/esercizio-express.git"
+  },
+  "author": "gabriele",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gabbo-Lato/esercizio-express/issues"
+  },
+  "homepage": "https://github.com/Gabbo-Lato/esercizio-express#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
